@@ -1,0 +1,12 @@
+Below link will provide documentation for api for all the below details for all the countries.
+
+https://documenter.getpostman.com/view/1134062/T1LJjU52#intro
+
+1.Population
+2. Location(with longitude & latitude)
+3.Flag
+4. Currencies
+5. Capital
+6. Cities
+7. Codes
+8. States

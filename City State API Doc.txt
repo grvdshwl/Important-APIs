@@ -1,0 +1,31 @@
+
+1. Get cities of a specified country
+
+ Method :- POST
+ URL :- https://countriesnow.space/api/v0.1/countries/cities
+ Body (raw/JSON) :-
+		
+	 {
+    	"country": "india"
+	} 
+
+2. Get cities in a specified state of a specified Country.
+
+  Method :- POST
+ URL :- https://countriesnow.space/api/v0.1/countries/state/cities
+ Body (raw/JSON) :-
+		
+	 {
+    "country": "India",
+    "state": "West Bengal"
+} 
+
+3. Get cities of a specified country.
+
+  Method :- POST
+ URL :- https://countriesnow.space/api/v0.1/countries/states
+ Body (raw/JSON) :-
+		
+	 {
+    	"country": "india"
+	}
